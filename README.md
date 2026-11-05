@@ -81,68 +81,7 @@ I'm an Information Technology graduate and **AI Engineer Intern** focused on bui
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-333333?style=flat-square&logo=render&logoColor=white)
 
----
 
-## 🚀 Featured Projects
-
-### ⚖️ Lexora — Enterprise Legal AI OS
-
-**Role:** Full-Stack / AI Engineer  
-**Tech:** TypeScript · React 18 · Express · SQLite FTS5 · BGE-M3 · BM25 · RRF · SHA-256
-
-A **local-first legal AI workspace** for commercial-contract review and Vietnamese legal provision search, designed around privacy and verifiable evidence.
-
-- Built **hybrid RAG retrieval** by combining BM25 keyword search and BGE-M3 dense embeddings, with RRF for result fusion.
-- Added **source-linked evidence**, change tracking, and maker-checker approval workflows.
-- Supported scanned-contract evidence alignment to help reviewers trace findings to supporting text regions.
-- Implemented SHA-256 report integrity checks and version-aware editing with optimistic concurrency and stale-content flags.
-
-### 🏥 Evidelle — Clinical Summary Agent
-
-**Role:** AI Application Developer  
-**Tech:** Python · Multi-Agent AI · RAG · Hybrid Retrieval · RRF · MedGemma/LLM
-
-An AI-assisted clinical summarization system designed to combine multi-source patient information into structured, chronological drafts for physician review.
-
-- Designed agents for **clinical summarization, citation verification, and conflict detection**.
-- Built a retrieval workflow using dense embeddings, TF-IDF, RRF, and section-aware chunking.
-- Integrated LLM-supported admission-focus analysis with **deterministic guardrails** and **human-in-the-loop review**.
-- Established evaluation using golden/challenge cases, **Recall@k**, **MRR**, **citation accuracy**, conflict detection, and cross-patient leakage tests.
-
-### 🛒 E-commerce Platform — Laptops & Tech Accessories
-
-**Role:** Full-Stack Developer  
-**Tech:** Next.js · React · TypeScript · Node.js · Express · PostgreSQL · REST APIs · JWT
-
-A full-stack commerce application covering the main customer and administration workflows.
-
-- Built product discovery, filtering, cart, checkout, and order-tracking interfaces.
-- Developed REST APIs for accounts, products, orders, discount codes, reviews, and customer messages.
-- Added JWT authentication, bcryptjs password hashing, and role-based access control.
-- Tested core API flows with Postman; deployed components using Vercel and Render for public testing.
-
-> **Project access:** Repositories, live demos, and architecture diagrams can be linked here when you choose to publish them. No private code is exposed by this README.
-
----
-
-## 💼 Experience
-
-**Full-Stack Developer Intern — RikkeiSoft**
-
-- Developed and refined responsive web application features using JavaScript, TypeScript, React, and Next.js.
-- Integrated frontend pages with REST APIs, used Postman to validate API behavior, and resolved integration issues.
-- Contributed to functional testing, UI/logic bug fixes, and team collaboration.
-
----
-
-## 🎓 Education
-
-| Program | Institution | Period |
-|---|---|---|
-| Artificial Intelligence | VinUniversity | 2026 – Present |
-| Information Technology | University of Transport Technology | 2022 – 2026 |
-
----
 
 ## 🌐 Let's Connect
 
